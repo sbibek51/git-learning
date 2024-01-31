@@ -1,0 +1,73 @@
+[33mcommit 9abfcc45966b439cd303251a2474a6b4adbef21a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32memergency-fix[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: ea1472f 5d4d303
+Author: sbibek51 <sktbibek51@gmail.com>
+Date:   Tue Jan 30 12:45:06 2024 -0500
+
+    dog image added and resolved conflict in basic_html
+
+[33mcommit 5d4d3038460be90ded770fbc7170ec3a9eef1a28[m
+Author: sbibek51 <sktbibek51@gmail.com>
+Date:   Tue Jan 30 12:39:12 2024 -0500
+
+    dog image renamed
+
+[33mcommit ea1472f96784fcdb4553c6c7206d9539fbeff0d3[m
+Merge: a973333 b4f09de
+Author: sbibek51 <sktbibek51@gmail.com>
+Date:   Tue Jan 30 12:30:53 2024 -0500
+
+    merged with hello-world-with-image after fixing the conflict
+
+[33mcommit b4f09de5ca8b91d3cb5e3101800fb9658a325e19[m
+Author: sbibek51 <sktbibek51@gmail.com>
+Date:   Tue Jan 30 12:07:01 2024 -0500
+
+    dog image added to the basic.html
+
+[33mcommit a0c518feb0f4928241db7f02bc0ddbc7e1b190e4[m
+Author: sbibek51 <sktbibek51@gmail.com>
+Date:   Mon Jan 29 17:25:39 2024 -0500
+
+    new text document added
+
+[33mcommit a973333edc737402f3619ab84a7959d793baf8bc[m
+Author: sbibek51 <sktbibek51@gmail.com>
+Date:   Mon Jan 29 13:29:19 2024 -0500
+
+    updated index.html with emergency fix
+
+[33mcommit 008f4cbcc2b2b0da4e9a7f431f70c52249a95b1b[m
+Author: sbibek51 <sktbibek51@gmail.com>
+Date:   Mon Jan 29 12:37:51 2024 -0500
+
+    added cat image to hello world file
+
+[33mcommit 492c748d3d7222ac653ade625f8e61683fb207da[m
+Author: sbibek51 <sktbibek51@gmail.com>
+Date:   Mon Jan 29 11:58:46 2024 -0500
+
+    html button adeded
+
+[33mcommit 78b5a7df0dd18945c1fbaf6118142d51baacd538[m
+Author: sbibek51 <sktbibek51@gmail.com>
+Date:   Sun Jan 28 13:21:59 2024 -0500
+
+    update after md and example cs with Canada Capital
+
+[33mcommit 8611b3314d75698e1d41cf652666a98cf2071f3c[m
+Author: sbibek51 <sktbibek51@gmail.com>
+Date:   Fri Jan 26 13:40:39 2024 -0500
+
+    this is commit after adding html list and class
+
+[33mcommit ee3683e56b4e7ba4f7fb2d71884352be07117124[m
+Author: sbibek51 <sktbibek51@gmail.com>
+Date:   Fri Jan 26 12:55:41 2024 -0500
+
+    updated index.html with new second line
+
+[33mcommit f09de6412de0a9702d8a4df5149d2639778f02e1[m
+Author: sbibek51 <sktbibek51@gmail.com>
+Date:   Fri Jan 26 12:53:23 2024 -0500
+
+    First release of hello world
