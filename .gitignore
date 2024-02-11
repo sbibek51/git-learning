@@ -1,0 +1,9 @@
+#ignore log files 
+*.log
+
+
+#ignore files in temp folder
+temp/
+
+#ignore in ref docs folder
+ref docs/
